@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/chemilea/static/css/main.b70e52a2.chunk.css",
+    "main.js": "/chemilea/static/js/main.cf65a3f1.chunk.js",
+    "main.js.map": "/chemilea/static/js/main.cf65a3f1.chunk.js.map",
+    "runtime-main.js": "/chemilea/static/js/runtime-main.06064f27.js",
+    "runtime-main.js.map": "/chemilea/static/js/runtime-main.06064f27.js.map",
+    "static/css/2.150d169a.chunk.css": "/chemilea/static/css/2.150d169a.chunk.css",
+    "static/js/2.155ba8ec.chunk.js": "/chemilea/static/js/2.155ba8ec.chunk.js",
+    "static/js/2.155ba8ec.chunk.js.map": "/chemilea/static/js/2.155ba8ec.chunk.js.map",
+    "static/js/3.2b24aafc.chunk.js": "/chemilea/static/js/3.2b24aafc.chunk.js",
+    "static/js/3.2b24aafc.chunk.js.map": "/chemilea/static/js/3.2b24aafc.chunk.js.map",
+    "index.html": "/chemilea/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/chemilea/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b70e52a2.chunk.css.map": "/chemilea/static/css/main.b70e52a2.chunk.css.map",
+    "static/js/2.155ba8ec.chunk.js.LICENSE.txt": "/chemilea/static/js/2.155ba8ec.chunk.js.LICENSE.txt",
+    "static/media/Brainbg.1ec96203.png": "/chemilea/static/media/Brainbg.1ec96203.png",
+    "static/media/Chemilea_Logo.55b38d9e.svg": "/chemilea/static/media/Chemilea_Logo.55b38d9e.svg",
+    "static/media/Email_Icon.9ce26a0d.svg": "/chemilea/static/media/Email_Icon.9ce26a0d.svg",
+    "static/media/Full_name_icon.fd950b2d.svg": "/chemilea/static/media/Full_name_icon.fd950b2d.svg",
+    "static/media/New_Notification_icon.084093ae.svg": "/chemilea/static/media/New_Notification_icon.084093ae.svg",
+    "static/media/OTP_Icon.d0b7be76.svg": "/chemilea/static/media/OTP_Icon.d0b7be76.svg",
+    "static/media/Properties_Icon.baa82cb1.svg": "/chemilea/static/media/Properties_Icon.baa82cb1.svg",
+    "static/media/Search_Icon.3f9bb6e4.svg": "/chemilea/static/media/Search_Icon.3f9bb6e4.svg",
+    "static/media/facebook.8b20be17.svg": "/chemilea/static/media/facebook.8b20be17.svg",
+    "static/media/linkedin.989dc75c.svg": "/chemilea/static/media/linkedin.989dc75c.svg",
+    "static/media/paper_plane.66c3f301.svg": "/chemilea/static/media/paper_plane.66c3f301.svg",
+    "static/media/twitter.ad5a5990.svg": "/chemilea/static/media/twitter.ad5a5990.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06064f27.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.155ba8ec.chunk.js",
+    "static/css/main.b70e52a2.chunk.css",
+    "static/js/main.cf65a3f1.chunk.js"
+  ]
+}
